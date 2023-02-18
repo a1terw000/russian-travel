@@ -1,6 +1,4 @@
-.place__website_url-heading {
-    position: absolute;
-    bottom: 34px;
+.place__url-heading {
     margin: 0;
     font-size: 12px;
     line-height: 1;
@@ -11,7 +9,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .place__website_url-heading {
+  .place__url-heading {
     position: static;
   }
 }

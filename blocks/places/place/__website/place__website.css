@@ -1,4 +1,7 @@
 .place__website {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
     max-width: 456px;
     grid-area: website;
     position: relative;
