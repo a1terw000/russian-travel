@@ -4,7 +4,6 @@
   justify-content: flex-end;
     max-width: 456px;
     grid-area: website;
-    position: relative;
 }
 
 @media screen and (max-width: 767px) {
