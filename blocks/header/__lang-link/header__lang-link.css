@@ -27,8 +27,3 @@
   }
 }
 
-@media screen and (max-width: 768px) {
-  .header__lang-link:hover {
-    opacity: 1;
-  }
-}

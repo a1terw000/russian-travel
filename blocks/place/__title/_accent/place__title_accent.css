@@ -1,0 +1,15 @@
+.place__title_accent {
+  max-width: 460px;
+}
+
+@media screen and (max-width: 1279px) {
+  .place__title_accent {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .place__title_accent {
+    max-width: 320px;
+  }
+}
