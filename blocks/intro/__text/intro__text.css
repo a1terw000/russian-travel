@@ -6,15 +6,3 @@
   line-height: 1.63;
   font-weight: 400;
 }
-
-@media screen and (max-width: 1023px) {
-  .intro__text {
-    padding-left: 18px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .intro__text {
-    padding-left: 0;
-  }
-}
