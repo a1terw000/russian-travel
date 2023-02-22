@@ -5,5 +5,17 @@
   line-height: 1.5;
   font-weight: 400;
   margin: 0px;
-  padding: 33px 0px 0px;
+  padding: 33px 0 0 0px;
+}
+
+@media screen and (max-width: 1023px) {
+  .list {
+    padding: 40px 0 0 6px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .list {
+    padding: 34px 0 0 0;
+  }
 }
